@@ -45,6 +45,7 @@ body {
   min-height: 100vh;
   overflow-x: hidden;
   -webkit-font-smoothing: antialiased;
+  zoom: 1.05; /* Scale up layout by 5% to prevent the zoomed-out look on wide monitors */
 }
 
 /* Custom Scrollbars */
