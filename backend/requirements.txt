@@ -1,0 +1,10 @@
+Flask==3.0.3
+Flask-SQLAlchemy==3.1.1
+flask-cors==4.0.1
+scikit-learn==1.5.0
+pandas==2.2.2
+numpy==1.26.4
+reportlab==4.2.0
+joblib==1.4.2
+google-genai==0.1.1
+requests==2.32.3
