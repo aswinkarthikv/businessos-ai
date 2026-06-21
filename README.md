@@ -104,11 +104,15 @@ cd backend
 .\venv\Scripts\activate
 python -m unittest test_api.py
 ```
-## Credentials to Admin
+## 🔐 Demo Login Credentials
 
-Email: admin@aierp.com
-Password : admin123
----
+**Administrator Account**
+
+* **Email:** `admin@aierp.com`
+* **Password:** `admin123`
+
+> Use the above credentials to access the BusinessOS AI dashboard and explore all platform features.
+
 
 ## 🌐 Publishing to GitHub Pages
 
