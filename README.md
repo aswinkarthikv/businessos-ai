@@ -105,7 +105,7 @@ cd backend
 python -m unittest test_api.py
 ```
 ## Credentials to Admin
-Admin Credential:
+
 Email: admin@aierp.com
 Password : admin123
 ---
