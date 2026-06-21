@@ -1,0 +1,25 @@
+# Python / Backend ignores
+backend/venv/
+backend/__pycache__/
+backend/instance/
+backend/temp_reports/
+*.pyc
+*.db
+*.log
+.env
+
+# Frontend ignores
+frontend/node_modules/
+frontend/dist/
+frontend/dist-ssr/
+frontend/*.local
+
+# OS / Editor ignores
+.vscode/
+.idea/
+.DS_Store
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.sw?
