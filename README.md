@@ -104,7 +104,10 @@ cd backend
 .\venv\Scripts\activate
 python -m unittest test_api.py
 ```
-
+## Credentials to Admin
+Admin Credential:
+Email: admin@aierp.com
+Password : admin123
 ---
 
 ## 🌐 Publishing to GitHub Pages
