@@ -4,7 +4,7 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig(({ command }) => {
   return {
-    base: command === 'build' ? '/businessos-ai/' : '/',
+    base: command === 'build' ? './' : '/',
     plugins: [react()],
     server: {
       proxy: {
